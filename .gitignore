@@ -1,0 +1,5 @@
+"# Database credentials" 
+"config/database.php" 
+"*.sql" 
+"*.log" 
+".env" 
